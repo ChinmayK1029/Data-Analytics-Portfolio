@@ -1,4 +1,4 @@
-# EdTech Recorded Lectures Analysis
+# EdTech Lectures Analysis
 
 ## Business Problem
 
