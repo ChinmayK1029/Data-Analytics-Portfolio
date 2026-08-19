@@ -65,7 +65,7 @@ IF(
 | Pivot Table | Skills Provided & Duration by Category / Sub-Category |
 | Slicers | Filter by Category, Sub-Category |
 
-**Page 2** — Detail table view
+
 
 ## 💡 Key Insights
 
