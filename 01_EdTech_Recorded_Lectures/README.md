@@ -91,8 +91,3 @@ IF(
 2. Open `Edtec_Analysis_Final.pbix` in Power BI Desktop
 3. Explore filters via the Category and Sub-Category slicers on Page 1
 
-
-```
-
----
-*Built as a portfolio project to demonstrate end-to-end BI development: data cleaning, modeling, DAX, and dashboard design.*
